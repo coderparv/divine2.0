@@ -8,7 +8,7 @@ HELP_PIC = "https://telegra.ph/file/572a9c973dc1965a6b46c.png"
 
 RiZoeLX = " ❤️‍🔥DIVINE 𝗦𝗣𝗔𝗠 ❤️‍🔥\n\n"
  
-RiZoeLX += f"__ᴄᴍᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ʀɪᴢᴏᴇʟ x sᴘᴀᴍ__\n\n"
+RiZoeLX += f"__ᴄᴍᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ DIVINE sᴘᴀᴍ__\n\n"
 
 RiZoeLX += f" ↧ 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙲𝙼𝙳𝚂 ↧\n\n"
 

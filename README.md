@@ -1,1 +1,1 @@
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/coderparv/divinearmy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-white?style=for-the-badge&logo=heroku" width="320" height="58.45"/></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/coderparv/divine2.0"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="720" height="78.45"/></a></p>
